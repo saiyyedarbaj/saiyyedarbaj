@@ -1,8 +1,22 @@
-- 👋 Hi, I’m Saiyyed Arbaj
-- 👀 I’m interested in Development in Full Stack Development, Python, C++ and C as well
-- 🌱 I’m currently learning Full Stack Development (MERN Stack)
-- 💞️ I’m looking to collaborate on Full Stack Development projects
-- 📫 You can reach out to me @saiyyedarbaj786092@gmail.com
+# Hi, I'm Saiyyed Arbaj 👋
+
+💼 **Software Engineer at Accenture** | Application Development Analyst
+
+🔧 Working in **Application Development & Production Support**
+
+🌱 Currently learning and building in **DevOps, Cloud & Platform Engineering**
+
+🚀 Exploring **Docker, GitHub Actions, CI/CD, Python, Linux, Kubernetes, Observatbility Tools & Cloud Deployment**
+
+🛠️ Building hands-on projects to strengthen my skills in automation, deployment, and cloud technologies.
+
+🤝 Open to collaborating on **DevOps, Cloud, Automation, and Backend Development** projects.
+
+📫 Reach me at **[saiyyedarbaj786092@gmail.com](mailto:saiyyedarbaj786092@gmail.com)**
+
+---
+
+*Always learning, building, and improving — one project at a time.*
 
 <!---
 saiyyedarbaj/saiyyedarbaj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
